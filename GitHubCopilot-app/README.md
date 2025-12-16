@@ -113,8 +113,12 @@ and time-grid logic
 ### Agenda View
 Navigate between days and see your tasks organized by time.
 
+![Agenda Layout - Full page view with time-based task grid](public/Calendar%20Layout.png)
+
 ### Task Creation Form
 Beautiful modal with category selection and optional priority.
+
+![Task Creation Modal - Form with category selection and priority options](public/Task%20Creation.png)
 
 ---
 
